@@ -20,6 +20,10 @@ div{
     flex-direction: column;
 }
 
+img{
+    width:10%;
+    height:10%;
+}
 .rainbow-text {
     background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
     -webkit-background-clip: text;
