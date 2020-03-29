@@ -21,8 +21,8 @@ div{
 }
 
 img{
-    width:auto;
-    height:15%;
+    width:1000px;
+    height:auto;
 }
 .rainbow-text {
     background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
