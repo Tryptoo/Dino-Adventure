@@ -1,14 +1,14 @@
 body{
     display: flex;
-    background-color: #3e2137;
+    background-color: #1f0e1c;
     flex-direction: column;
     align-items: center;
-    color:orange;
+    color:#f5edba;
     padding-top: 1%;
     font-family: 'Open Sans',sans-serif;
 }
 a{
-    color:orange;
+    color:#f5edba;
     padding:1%;
 }
 
