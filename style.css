@@ -5,7 +5,9 @@ body{
     align-items: center;
     color:#f5edba;
     font-family: 'Open Sans',sans-serif;
-    font-size:100%
+    font-size:100%;
+    padding-left:10%;
+    padding-right:10%;
 }
 
 #menu{
