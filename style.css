@@ -4,12 +4,21 @@ body{
     flex-direction: column;
     align-items: center;
     color:#f5edba;
-    padding-top: 1%;
     font-family: 'Open Sans',sans-serif;
 }
+
+.titre{
+    font-family: 'Staatliches',sans-serif;
+    font-size: 300%;
+}
+
+.texte{
+    padding-bottom: 3%;
+}
+
 a{
+    padding-bottom: 1%;
     color:#f5edba;
-    padding:1%;
 }
 
 div{
@@ -29,3 +38,26 @@ img{
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   }
+
+  
+  .button {
+    margin-top:2%;
+    padding:1% ;
+    font-family: 'Staatliches',sans-serif;
+    font-size: 200%;
+    height: 50%;
+    width: auto;
+    color:#1f0e1c;
+    transition-duration: 0.4s;
+    background-color: #f5edba;
+    text-decoration: none;
+    border-radius: 5%;
+  }
+
+  .button:hover {
+    background-color: #fab534;
+  }
+
+footer{
+    padding-top: 10%;
+}
